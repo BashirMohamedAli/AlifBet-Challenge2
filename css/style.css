@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#5492F5;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: #f63031;
+    margin-top: 5%;
+}
+.alif1 {
+    width: 10%;
+    padding-left: 12px;
+}
+.container {
+    background-color: #fff;
+    position: absolute;
+    width: 80%;
+    height: 94%;
+    left: 100px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.imgbox {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
